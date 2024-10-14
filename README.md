@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yashi Garg and I'm a #rd year Computer Science student.</h2>
+<h2 align="left">Hi 👋! My name is Yashi Garg and I'm a 3rd year Computer Science student.</h2>
 
 ###
 
