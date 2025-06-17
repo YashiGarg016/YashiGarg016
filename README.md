@@ -91,4 +91,13 @@
 <img src="https://raw.githubusercontent.com/YashiGarg016/YashiGarg016/output/snake.svg" alt="Snake animation" />
 
 ###
+<div>
+  <div>Some of my interests:
+    <li>
+    <ul> Horror Games </ul>
+    <ul> Exploring new genres of music </ul>
+    <ul> F1 </ul>
+    </li>
+  </div>
+</div>
 
