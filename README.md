@@ -93,11 +93,11 @@
 ###
 <div>
   <div>Some of my interests:
-    <li>
-    <ul> Horror Games </ul>
-    <ul> Exploring new genres of music </ul>
-    <ul> F1 </ul>
-    </li>
+    <ul>
+    <li> Horror Games </li>
+    <li> Exploring new genres of music </li>
+    <li> F1 </li>
+    </ul>
   </div>
 </div>
 
