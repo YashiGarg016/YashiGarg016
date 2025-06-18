@@ -91,19 +91,20 @@
 <img src="https://raw.githubusercontent.com/YashiGarg016/YashiGarg016/output/snake.svg" alt="Snake animation" />
 
 ###
-<div>
-  <div>Some of my interests:
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 45%;">
+    <h3>Some of my interests:</h3>
     <ul>
-    <li> Horror Games </li>
-    <li> Exploring new genres of music </li>
-    <li> F1 </li>
+      <li>Horror Games</li>
+      <li>Exploring new genres of music</li>
+      <li>F1</li>
     </ul>
   </div>
-  <div>Some of my achievements:
+  <div style="width: 45%;">
+    <h3>Some of my achievements:</h3>
     <ul>
-    <li> Got selected for the Keploy API fellowship </li>
-    <li> HackVega 2025 finalist </li>
+      <li>Got selected for the Keploy API fellowship</li>
+      <li>HackVega 2025 finalist</li>
     </ul>
   </div>
 </div>
-
