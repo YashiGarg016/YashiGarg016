@@ -99,5 +99,11 @@
     <li> F1 </li>
     </ul>
   </div>
+  <div>Some of my achievements:
+    <ul>
+    <li> Got selected for the Keploy API fellowship </li>
+    <li> HackVega 2025 finalist </li>
+    </ul>
+  </div>
 </div>
 
