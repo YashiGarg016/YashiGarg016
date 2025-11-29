@@ -91,32 +91,3 @@
 <img src="https://raw.githubusercontent.com/YashiGarg016/YashiGarg016/output/snake.svg" alt="Snake animation" />
 
 ###
-<table border="1">
-  <tr>
-    <th>Some of my interests</th>
-    <th>Some of my achievements</th>
-    <th>Notable projects</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Horror Games</li>
-        <li>Exploring new genres of music</li>
-        <li>F1</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Got selected for the Keploy API fellowship</li>
-        <li>HackVega 2025 finalist</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Flappy Bird game made with Unity</li>
-        <li>A Dice Game with React</li>
-        <li>Movie Recommender with Python</li>
-      </ul>
-    </td>
-  </tr>
-</table>
