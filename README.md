@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yashi Garg and I'm a final year Computer Science student.</h2>
+<h2 align="left">Hi 👋! My name is Yashi Garg and I'm an AI/ML Engineer.</h2>
 
 ###
 
